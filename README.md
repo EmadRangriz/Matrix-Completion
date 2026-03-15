@@ -1,5 +1,6 @@
 # Matrix-Completion
-Author: Emad Rangriz (rangriz.emad@gmail.com || rangriz.emad@aut.ac.ir)
+Authors: Emad Rangriz (rangriz.emad@gmail.com)
+         Hamid Fathi (hamid.fathi@cwi.nl)
 
 Low-rank matrix completion by using a new method based on calculating the Uncertainty Information of each element.
 Paper's Title: "Two Novel Algorithms for Low-Rank Matrix Completion Problem", IEEE Signal Processing Letters, 2021
